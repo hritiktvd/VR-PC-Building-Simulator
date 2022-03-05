@@ -4,5 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NBA VR Login.unity
+    guid: 971f61a84ed02054080a03b74283ab78
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 994ef7af8a94d86449617c1afd050de8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c55a50bc54c227444bb23f62a35f11f4, type: 2}
