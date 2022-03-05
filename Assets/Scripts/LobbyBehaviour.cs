@@ -108,7 +108,7 @@ public class LobbyBehaviour : MonoBehaviourPunCallbacks
     public override void OnJoinedRoom()
     {
         Debug.Log("The Local player: " + PhotonNetwork.NickName + " joined to " + PhotonNetwork.CurrentRoom.Name + " Player count " + PhotonNetwork.CurrentRoom.PlayerCount);
-        PhotonNetwork.LoadLevel("Sample Scene");
+        PhotonNetwork.LoadLevel("SampleScene");
     }
 
     public override void OnPlayerEnteredRoom(Player newPlayer)
