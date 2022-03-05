@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: '#SHL0005_Drawers'
-  m_Shader: {fileID: 4800000, guid: 953d6c4c7f7ec324d860efb0db9c68ff, type: 3}
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _GLOSSINESS_FROM_BASE_ALPHA _NORMALMAP _SPECULAR_COLOR
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
