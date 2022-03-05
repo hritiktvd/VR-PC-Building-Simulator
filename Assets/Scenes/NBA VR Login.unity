@@ -3317,7 +3317,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 1
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -4375,7 +4375,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Timeout: 10
-  m_XROrigin: {fileID: 0}
+  m_XROrigin: {fileID: 382837278}
 --- !u!114 &382837278
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5030,7 +5030,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Timeout: 10
-  m_XROrigin: {fileID: 0}
+  m_XROrigin: {fileID: 435777501}
 --- !u!114 &435777501
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19188,7 +19188,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Login to Play NBA
+  m_Text: Login to Play PC Simulator
 --- !u!222 &2034137941
 CanvasRenderer:
   m_ObjectHideFlags: 0
